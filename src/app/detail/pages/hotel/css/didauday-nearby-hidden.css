@@ -1,0 +1,11 @@
+.didauday-nearby-hidden {
+  text-overflow: ellipsis;
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: 0px 5px;
+}
+
+.didauday-nearby-mt-5 {
+  margin-top: 5px !important;
+}

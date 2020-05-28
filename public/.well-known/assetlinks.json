@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "vn.didauday.lambui.android",
+               "sha256_cert_fingerprints": ["1C:F6:41:0A:B2:54:39:DA:6F:6D:15:9F:09:1E:29:0A:A4:43:9D:E0:49:C0:42:6C:EA:98:85:FC:86:B8:D5:B9"] }
+}]

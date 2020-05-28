@@ -1,0 +1,186 @@
+.box-ticket {
+    width: 100%;
+    min-height: 124px;
+    margin-bottom: 10px;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: 1px solid #dedede;
+    cursor: pointer;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    background-color: #fff;
+}
+
+.info-ticket {
+    clear: both;
+    width: 100%;
+    position: relative;
+}
+
+.travel-agent {
+    display: inline-block;
+    float: left;
+    padding-top: 12px;
+}
+
+._3dU_O._2-YBj {
+    text-align: left;
+    width: 171px;
+    position: relative;
+}
+
+._2HE-b {
+    max-width: 150px;
+}
+
+._1zoV1 {
+    max-width: 35px;
+    max-height: 25px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+._3gn1_ {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.jjGhl {
+    font-size: 16px;
+    font-size: inherit;
+    line-height: 24px;
+}
+
+._1KrnW {
+    white-space: normal;
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+}
+
+.time-info-ticket-flight{
+    color: hsl(0, 0%, 26%);
+    font-weight: 300;
+    line-height: 16px;
+    padding-top: 15px;
+}
+
+.time-start-flight {
+    color: hsl(0, 0%, 26%);
+    display: inline;
+    font-weight: 300;
+    line-height: 16px;
+}
+
+.content-flight-main {
+    color: hsl(0, 0%, 26%);
+    display:  block;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.content-flight-sub {
+    color: hsl(0, 0%, 56%);
+    display:  block;
+    font-weight: 500;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.content-flight-price {
+    color: hsl(26, 99%, 49%);
+    display:  block;
+    font-weight: 700;
+    line-height: 24px;
+    font-size: 18px;
+}
+
+.content-flight-choose {
+    align-items: flex-start;
+    border-radius: 3px;
+    background-color: hsl(26, 99%, 49%);
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+    text-align: center;
+    padding: 8px 20px;
+    width: 90%;
+}
+
+.content-search-flight {
+    color: hsl(0, 0%, 26%);
+    background-color: hsl(0, 0%, 100%);
+    font-weight: 300;
+    line-height: 16px;
+    margin: 0px 163.5px;
+    padding: 50px 0px 20px ;
+}
+
+.head-content-search-flight {
+    border-width: 0px 0px 1px;
+    color: hsl(0, 0%, 26%);
+    font-weight: 300;
+    line-height: 16px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.text-head-content-search-flight-main {
+    display: inline;
+    color: hsl(201, 79%, 6%);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+
+.text-head-content-search-flight-sub {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    line-height: 16px;
+    color: hsl(0, 0%, 26%);
+    margin: 20px  0px 0px;
+}
+
+.text-head-content-search-flight-sub-1 {
+    color: hsl(201, 6%, 44%);
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
+}
+
+.change-search-flight {
+    color: hsl(0, 0%, 26%);
+    display: table-cell;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: right;
+}
+
+.button-change-search-flight {
+    align-items: flex-start;
+    background-color: hsl(208, 93%, 42%);
+    border-radius: 4px;
+    color: hsl(0, 0%, 100%);
+    display: inline block;
+    font-weight: 300;
+    line-height: 24px;
+    padding: 8px 16px;
+    text-align: center;
+    width: 141px;
+    height: 40px;
+}
+
+.button-change-search-flight:hover {
+    background-color: rgba(11, 142, 175, 0.5);
+}
+
+.list-ticket-flight {
+    margin-top: 20px;
+}
+
+.content-search-flight {
+    margin: 0px !important;
+}

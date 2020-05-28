@@ -1,0 +1,80 @@
+.didauday_banner-top {
+  position: absolute !important;
+  width: 100% !important;
+}
+.didauday_banner-top__img {
+  width: 100% !important;
+  height: 500px;
+}
+
+.didauday-home-mt-50 {
+  margin-top: 50px !important;
+}
+
+@media only screen and (max-width: 1280px) {
+  .didauday-home-mt-50 {
+    margin-top: 0px !important;
+  }
+}
+
+.didauday-autocomplete {
+  position: absolute;
+  padding: 5px 10px !important;
+  background: #fff;
+  border: 1px solid lightblue;
+  border-radius: 3px;
+  z-index: 100;
+}
+
+.didauday-home-date {
+  display: block !important;
+}
+
+.didauday-home-date-width {
+  width: 100% !important;
+}
+
+.didayday-home-seach-button {
+  width: 100% !important;
+  background: #5191FA !important;
+  text-transform: uppercase !important;
+}
+
+.didayday-home-mt-30 {
+  margin-top: 30px !important;
+}
+
+.search-result-page.st-tours .grid-item .service-border {
+  border: 1px solid #dfdfdf;
+  border-radius: 3px;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  display: flex !important;
+  flex-direction: column;
+  flex: 1;
+}
+
+.search-result-page .st-hotel-result .item-service h4.service-title a {
+  color: #1A2B50;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.search-result-page.st-tours .grid-item .section-footer {
+  display: table;
+}
+
+.didauday-custom-destination-item {
+  height: 250px !important;
+}
+
+.didauday-custom-destination-item .image{
+  height: 100% !important;
+}
+
+.didauday-custom-destination-item .image img{
+  height: 100% !important;
+}

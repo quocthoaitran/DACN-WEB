@@ -1,0 +1,13 @@
+.didauday-search-hotel-banner {
+  background-image: url(/images/bg-top-banner-search-hotel.jpg) !important;
+}
+
+.didauday-search-hotel-border {
+  border: 1px solid lightgrey !important;
+}
+
+.didauday-search-hotel-location {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
